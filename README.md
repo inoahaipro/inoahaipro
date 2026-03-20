@@ -2,9 +2,10 @@
 
 AI automation + agents + weird device workflows.
 
-I’m an **AI automation and prompt enthusiast turned specialist** – mostly living in the space where:
+I’m an **AI automation and prompt enthusiast** – mostly living in the space where:
 
 - LLMs
+- 0 Token Workflows
 - device automation (Android/Termux, Windows, macOS)
 - and tooling like **OpenClaw**, **Token Firewall**, and **AutoJs**
 
