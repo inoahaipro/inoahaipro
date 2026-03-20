@@ -45,7 +45,7 @@ Repo: `inoahaipro/openclaw_bridge`
 
 ## Tech I work with
 
-- **Languages / runtimes**: Python, Node.js
+- **Languages / runtimes**: Python, Html
 - **Agent / orchestration**: OpenClaw, custom tools & skills
 - **Automation**: Android + Termux, AutoJs, ADB, desktop shell workflows
 - **Platforms**: Android, Windows, macOS
