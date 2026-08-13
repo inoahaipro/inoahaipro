@@ -2,7 +2,9 @@
 
 Operations background, now building AI automation and agent infrastructure — Android device control, LLM tooling, and systems that act instead of just talking.
 
-**Full projects, resume, and background: [portfolio-jet-psi-36.vercel.app](https://portfolio-jet-psi-36.vercel.app)**
+**Full projects, resume, and background: [noahroberts.vercel.app](https://noahroberts.vercel.app)**
+
+**Resumes:** [Tech](https://noahroberts.vercel.app/resumes/Noah_Roberts_Tech_Resume.pdf) · [QA](https://noahroberts.vercel.app/resumes/Noah_Roberts_QA_Resume.pdf)
 
 ## What I've built
 
@@ -14,6 +16,6 @@ Operations background, now building AI automation and agent infrastructure — A
 
 ## Contact
 
-inoahguyfromutah@gmail.com · [portfolio](https://portfolio-jet-psi-36.vercel.app) · Salt Lake City, UT
+inoahguyfromutah@gmail.com · [portfolio](https://noahroberts.vercel.app) · Salt Lake City, UT
 
 Open to roles or collabs in AI/LLM tooling, agentic systems, and automation for real devices.
