@@ -4,7 +4,7 @@ Operations background, now building AI automation and agent infrastructure — A
 
 **Full projects, resume, and background: [noahroberts.vercel.app](https://noahroberts.vercel.app)**
 
-**Resumes:** [Tech](https://noahroberts.vercel.app/resumes/Noah_Roberts_Tech_Resume.pdf) · [QA](https://noahroberts.vercel.app/resumes/Noah_Roberts_QA_Resume.pdf)
+**Resume:** [PDF](https://noahroberts.vercel.app/resumes/Noah_Roberts_Tech_Resume.pdf)
 
 ## What I've built
 
