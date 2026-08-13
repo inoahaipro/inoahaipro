@@ -1,72 +1,19 @@
-# Hey, I’m Noah (inoahaipro)
+# Noah Roberts
 
-AI automation + agents + weird device workflows.
+Operations background, now building AI automation and agent infrastructure — Android device control, LLM tooling, and systems that act instead of just talking.
 
-I’m an **AI automation and prompt enthusiast** – mostly living in the space where:
+**Full projects, resume, and background: [portfolio-jet-psi-36.vercel.app](https://portfolio-jet-psi-36.vercel.app)**
 
-- LLMs
-- 0 Token Workflows
-- device automation (Android/Termux, Windows, macOS)
-- and tooling like **OpenClaw**, **Token Firewall**, and **AutoJs**
+## What I've built
 
-all crash into each other.
+- **[PhoneClaw](https://github.com/inoahaipro/phoneclaw)** — Android automation agent. Foreground service + accessibility engine that lets an AI (or a script) actually drive a phone: tap, swipe, read the screen, launch apps, no ADB tether required.
+- **[Token Firewall](https://github.com/inoahaipro/token_firewall)** — sits between an LLM client and the model, caching plans so repeat tasks cost zero tokens instead of re-running the full chain every time.
+- **[WCAG Accessibility Scanner](https://wcag-scanner-two.vercel.app)** — scans any site for WCAG 2.2 AA violations, explains each one in plain English with an exact fix. Shipped as a live subscription product.
+- **[FilerAI](https://getfilerai.vercel.app)** — document-filing tool for HVAC shops; extracts customer/equipment/date data from permits, invoices, and even handwritten forms.
+- **OpenClaw Bridge** — the earlier version of the Android control layer PhoneClaw grew out of.
 
-I like building systems that:
+## Contact
 
-- **save tokens** instead of burning them
-- **learn once, replay forever**
-- can drive real devices (phones, desktops) instead of just generating text
-- feel more like a **personal operator** than a chatbot
+inoahguyfromutah@gmail.com · [portfolio](https://portfolio-jet-psi-36.vercel.app) · Salt Lake City, UT
 
----
-
-## What I’m building
-
-### 🧱 Token Firewall
-An LLM "token firewall" that sits between your client (OpenClaw, CLI, whatever) and your model:
-
-- Caches answers + workflows so **cache hits cost 0 tokens**
-- Learns reusable plans and actions
-- Has a built-in chat UI
-- Integrates with OpenClaw as a drop-in OpenAI-style provider
-- Knows how to talk to real devices via platform "hands" (Android, desktop, etc.)
-
-Repo: `inoahaipro/token_firewall`
-
-### 📱 OpenClaw Bridge (Android hands)
-An Android accessibility bridge that exposes a clean JSON API for controlling the phone:
-
-- AutoJs6 script on-device + Python client in Termux
-- Actions like `getScreen`, `getScreenText`, `findAndTap`, `tapAt`, `swipe`, `typeText`, `launchApp`, `openUrl`, etc.
-- Designed to be wired into OpenClaw and Token Firewall, but usable standalone
-
-Repo: `inoahaipro/openclaw_bridge`
-
----
-
-## Tech I work with
-
-- **Languages / runtimes**: Python, Html
-- **Agent / orchestration**: OpenClaw, custom tools & skills
-- **Automation**: Android + Termux, AutoJs, ADB, desktop shell workflows
-- **Platforms**: Android, Windows, macOS
-
-Right now I’m especially interested in:
-
-- Turning messy prompt chains into **repeatable, testable automations**
-- Letting agents control real devices in a reliable way
-- Building infrastructure that makes AI more **operational** and less "just vibes"
-
----
-
-## What I’m looking for
-
-- Roles or collaborations around:
-  - AI/LLM tooling and infra
-  - agentic systems
-  - automation for real devices (phones, desktops)
-- Teams that like to ship, experiment, and push into weird new territory
-
-If you’re building in this space and want someone who actually enjoys wiring AI into the real world: **reach out**.
-
-You can find me here on GitHub as `@inoahaipro`.
+Open to roles or collabs in AI/LLM tooling, agentic systems, and automation for real devices.
